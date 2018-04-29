@@ -10,33 +10,29 @@ GET TOKEN :
 Cara Install Bot Chucky :
 ------
 Di C9 :
-- Ketik -> `sudo apt-get update`
-- Ketik -> `sudo apt-get install git`
-- Ketik -> `sudo apt-get install python-sofware-properties`
-- Ketik -> `sudo pip install rsa`
-- Ketik -> `sudo pip install thrift==0.9.3`
-- Ketik -> `sudo pip install requests`
-- Ketik -> `sudo pip install requests==2.5.3`
-- Ketik -> `sudo pip install bs4`
-- Ketik -> `sudo pip install gtts`
-- Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/Chuckyfix`
-- Ketik -> `cd Chucky`
-- Ketik -> `python Chucky.py`
+sudo apt-get update
+sudo apt-get install git
+sudo apt-get install python-sofware-properties
+sudo pip install rsa
+sudo pip install thrift==0.9.3
+sudo pip install requests
+sudo pip install requests==2.5.3
+sudo pip install bs4
+sudo pip install gtts
+sudo pip install googletrans
+git clone https://github.com/Vanz12/NA28
+
 
 Di Termux :
-- Ketik -> `pkg update`
-- Ketik -> `pkg install git`
-- Ketik -> `pkg install python2`
-- Ketik -> `pip2 install rsa`
-- Ketik -> `pip2 install thrift==0.9.3`
-- Ketik -> `pip2 install requests`
-- Ketik -> `pip2 install bs4`
-- Ketik -> `pip2 install gtts`
-- Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/Chuckyfix`
-- Ketik -> `cd Chucky`
-- Ketik -> `python2 Chucky.py`
+pkg update
+pkg install git
+pkg install python2
+pip2 install rsa
+pip2 install thrift==0.9.3
+pip2 install requests
+pip2 install bs4
+pip2 install gtts
+pip2 install googletrans
 
 Cara Menjalankan Bot Kembali :
 ------
@@ -48,13 +44,4 @@ Di Termux :
 - Ketik -> `cd Chucky`
 - Ketik -> `python2 Chucky.py`
 
-
-Credit By@ Nadya Sutjiadi.
-------
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
-
-Thx To :
-------
-- `LINE-TCR TEAM`
 
